@@ -5,6 +5,6 @@ import javax.swing.*;
 public class Ball {
 
 	public Ball() {
-		
+		//
 	}
 }
